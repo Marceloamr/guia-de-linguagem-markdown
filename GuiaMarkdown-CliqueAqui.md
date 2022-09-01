@@ -1,4 +1,4 @@
-# Issue aberta para teste de linguagem **Markdown**
+# Guia de linguagem **Markdown** no GitHub para se usar em Issues ou arquivo .MD
 
 -**Formatação:**
 
