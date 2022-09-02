@@ -8,10 +8,11 @@ Itálico: * > *Markdown*
 Negrito e Itálico: *** ou _* > _*Markdown*_
 
 Exemplo:
+
 ![image](https://user-images.githubusercontent.com/93157464/188027436-647aac46-0568-4729-8e65-c33d005116a3.png)
 
 
--**Lista Marcada:** Basta numerar e pontuar > 1. Markdown, 2. Markdown (Só que na próxima linha), caso você tabule (3 espaços) ele será marcado dentro da lista
+-**Lista Marcada:** Basta numerar e pontuar > 1. Markdown, e ao apertar ENTER pulará pra próxima linha com o número 2. Markdown, caso você tabule (3 espaços) ele será marcado dentro da lista
 
 1. Markdown
 2. Markdown
@@ -20,6 +21,7 @@ Exemplo:
 3. Continuação do teste
 
 Exemplo:
+
 ![image](https://user-images.githubusercontent.com/93157464/188027359-4db5a78c-7750-4994-894f-23ef6a9c5c26.png)
 
 
@@ -33,6 +35,7 @@ Exemplo:
 * Markdown
 
 Exemplo:
+
 ![image](https://user-images.githubusercontent.com/93157464/188027332-b4bc8be0-77d1-4722-bf5c-194f06638be7.png)
 
 
@@ -46,6 +49,7 @@ Exemplo:
    - [x] Markdown com 3 espaços após a linha anterior 
 
 Exemplo:
+
 ![image](https://user-images.githubusercontent.com/93157464/188027267-e33636bf-b861-4cff-8394-277345e506bb.png)
 
 
@@ -54,6 +58,7 @@ Exemplo:
 [Acesse minhas Issues](https://github.com/Marceloamr/Primeiro-Repositorio/issues)
 
 Exemplo:
+
 ![image](https://user-images.githubusercontent.com/93157464/188028102-0c707c4a-58ce-4582-a9ed-3864e4740740.png)
 
 
@@ -67,6 +72,7 @@ Número | Nome | Nota | Motivo
 4 | Marcelo | 0 | Faltou
 
 Exemplo:
+
 ![image](https://user-images.githubusercontent.com/93157464/188028028-d4e4be13-adeb-436b-a394-807f4de36b87.png)
 
 
@@ -79,6 +85,7 @@ Meu código usando 3 crases invertidas
    else (...)
 ```
 Exemplo:
+
 ![image](https://user-images.githubusercontent.com/93157464/188028533-7a7853a9-2bb9-466e-952c-fe7dd96c110d.png)
 
 
